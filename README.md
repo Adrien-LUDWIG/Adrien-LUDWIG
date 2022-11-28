@@ -95,3 +95,6 @@ Welcome to my GitHub page. Feel free to look around !
 ## 👨‍💻 A joke to brighten your day ! 😆
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23006afe&aColor=%232dde98&bgColor=%230d1117d&textColor=%23006afe)](https://github.com/ABSphreak/readme-jokes)
+
+## ☎️ Contact
+<a href="https://linktr.ee/adrien.anton_ludwig"><img src="https://cdn.pixabay.com/photo/2021/10/29/06/47/icons-6751206_1280.png" alt="drawing" width="250"/>
