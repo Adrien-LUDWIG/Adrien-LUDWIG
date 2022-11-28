@@ -91,3 +91,7 @@ Welcome to my GitHub page. Feel free to look around !
 ## ✨ Fancy widgets for GitHub stats
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrien-ANTON-LUDWIG&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien-ANTON-LUDWIG&hide=M4&langs_count=8&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👨‍💻 A joke to brighten your day ! 😆
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23006afe&aColor=%232dde98&bgColor=%230d1117d&textColor=%23006afe)](https://github.com/ABSphreak/readme-jokes)
