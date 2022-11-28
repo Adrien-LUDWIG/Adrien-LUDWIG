@@ -23,7 +23,7 @@ Welcome to my GitHub page. Feel free to look around !
 [![Assembly](https://img.shields.io/badge/Assembly-333333?style=for-the-badge&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
 
-### :tools: ... and libraries & tools
+### 🛠️ ... and libraries & tools:
 <details>
   <summary><em>(open to see details)</em></summary>
   <br />
