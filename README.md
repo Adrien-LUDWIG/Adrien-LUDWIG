@@ -30,16 +30,16 @@ Welcome to my GitHub page. Feel free to look around !
   
   - Python:
   
-    ![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-    ![Numpy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white&style=for-the-badge)
-    ![Matplotlib](https://img.shields.io/badge/Matplotlib-2596be.svg?style=for-the-badge&logo=Plotly&logoColor=white)
-    ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
-    ![Vega Altair](https://img.shields.io/badge/Vega%20Altair-21b5f4.svg?style=for-the-badge&logo=Altair&logoColor=white)
-    ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-    ![Keras](https://img.shields.io/badge/-KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
-    ![Tensorflow](https://img.shields.io/badge/-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+    [![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Project_Jupyter)
+    [![NumPy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://en.wikipedia.org/wiki/NumPy)
+    [![pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://en.wikipedia.org/wiki/Pandas_(software))
+    [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/OpenCV)
+    [![Matplotlib](https://img.shields.io/badge/Matplotlib-2596be.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://en.wikipedia.org/wiki/Matplotlib)
+    [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)](https://en.wikipedia.org/wiki/Plotly)
+    [![Vega Altair](https://img.shields.io/badge/Vega%20Altair-21b5f4.svg?style=for-the-badge&logo=Altair&logoColor=white)](https://en.wikipedia.org/wiki/Vega_and_Vega-Lite_visualisation_grammars)
+    [![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Scikit-learn)
+    [![Keras](https://img.shields.io/badge/-KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://en.wikipedia.org/wiki/Keras)
+    [![TensorFlow](https://img.shields.io/badge/-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/TensorFlow)
   
   - C++:
   
