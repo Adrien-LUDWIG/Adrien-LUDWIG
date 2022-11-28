@@ -88,9 +88,13 @@ Welcome to my GitHub page. Feel free to look around !
 
 </details>
   
-## ✨ Fancy widgets for GitHub stats
-  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrien-ANTON-LUDWIG&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien-ANTON-LUDWIG&hide=M4&langs_count=8&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## ✨ Fancy widgets for GitHub stats ✨
+
+<div class='container'>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Adrien-ANTON-LUDWIG&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien-ANTON-LUDWIG&hide=M4&langs_count=8&layout=compact&theme=transparent&hide_border=true" /></div>
+</div>
 
 ## 👨‍💻 A joke to brighten your day ! 😆
 
