@@ -70,27 +70,18 @@ Welcome to my GitHub page. Feel free to look around !
   
     [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/PostgreSQL)
   
-  - IDEs:
-  
-    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-    [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-e7475c?style=for-the-badge&logo=intellij%20idea&logoColor=white)](https://en.wikipedia.org/wiki/IntelliJ_IDEA)
-  
-    CLion
-    [![Rider](https://img.shields.io/badge/Rider-002458?style=flat-square&logo=rider&logoColor=white)](https://www.jetbrains.com/rider/)
-    [![PyCharm](https://img.shields.io/badge/PyCharm-dfedff?style=flat-square&logo=pycharm&logoColor=black)](https://www.jetbrains.com/pycharm/)
-    [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-dcd4f6?style=flat-square&logo=visual%20studio&logoColor=7252aa)](https://visualstudio.microsoft.com/)
-  
   - Office tools:
   
-    [![LaTeX](https://img.shields.io/badge/LaTeX-dfedff?style=flat-square&logo=latex&logoColor=black)]()
-    Canva
+    [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://en.wikipedia.org/wiki/LaTeX)
+    [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://en.wikipedia.org/wiki/Canva)
   
   - Image editing tools:
   
-    Lightroom
-    [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20
+    [![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Lightroom)
+    [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Illustrator)
+    [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)](https://en.wikipedia.org/wiki/Adobe_Photoshop)
   
   - Graphics engines :
   
-    Blender
-    Unity
+    [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white)](https://en.wikipedia.org/wiki/Blender_(software))
+    [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)](https://en.wikipedia.org/wiki/Unity_(game_engine))
