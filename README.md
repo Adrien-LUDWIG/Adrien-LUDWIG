@@ -47,6 +47,7 @@ Welcome to my GitHub page. Feel free to look around !
   
     [![Spdlog](https://img.shields.io/badge/-Spdlog-333333?style=for-the-badge&logo=Spdlog&logoColor=white)](https://github.com/gabime/spdlog)
     [![JSON for Modern C++](https://img.shields.io/badge/JSON-333333?style=for-the-badge)](https://json.nlohmann.me/)
+    [![Open MPI](https://img.shields.io/badge/Open%20MPI-006fb0?style=for-the-badge)](https://en.wikipedia.org/wiki/Open_MPI)
   
   - Git:
   
