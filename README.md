@@ -29,7 +29,8 @@ Welcome to my GitHub page. Feel free to look around !
   <br />
   
   - Python:
-  
+
+    [![Pytest](https://img.shields.io/badge/Pytest-3776AB?logo=Pytest&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/Pytest)
     [![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://en.wikipedia.org/wiki/Project_Jupyter)
     [![NumPy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://en.wikipedia.org/wiki/NumPy)
     [![pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://en.wikipedia.org/wiki/Pandas_(software))
