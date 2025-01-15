@@ -4,7 +4,9 @@ Welcome to my GitHub page. Feel free to look around !
 
 ## About me
 
-🎓 I am a student in computer science engineering at EPITA in Paris, France. Currently in my final year of master, I am completing my specialization in image processing. Through the last year, I learned about computer vision, signal processing, machine learning, deep learning, data treatment and visualisation, GPU programming, distributed programming and a few other image related skills.
+I'm a French 🇫🇷 computer science engineer. 🧑‍💻 \
+I like to learn new interesting things. 🕵️‍♂️ \
+Open source enthusiast. 🚀
 
 ### 💻 I *currently* code mostly in
 
