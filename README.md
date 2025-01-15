@@ -100,7 +100,7 @@ Open source enthusiast. 🚀
 <a href="https://github.com/anuraghazra/github-readme-stats"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrien-LUDWIG&hide=M4&langs_count=8&layout=compact&theme=transparent&hide_border=true" /></div>
 </div>
 
-## 👨‍💻 A joke to brighten your day ! 😆
+## 👨‍💻 A joke to brighten your day ! 😁
 
 [![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23006afe&aColor=%232dde98&bgColor=%230d1117d&textColor=%23006afe)](https://github.com/ABSphreak/readme-jokes)
 
